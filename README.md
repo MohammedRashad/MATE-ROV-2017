@@ -24,4 +24,4 @@ This Repo has the code and schematics for the 4th mission in the competition.
 
 ### License 
 
-All Work in this Repo is signed under MIT License and belongs to Eureka ROV Technical Support Team.
+All Work in this Repo is signed under MIT License and belongs to **Eureka ROV Technical Support Team**.
