@@ -1,5 +1,5 @@
 # MATE-ROV-2017
-MATE ROV 2017 (Arab Competition) Fields for Explorer &amp; Ranger class.
+MATE ROV 2017 (Egypt & Arab Competition) playgrounds for Explorer &amp; Ranger class.
 
 ### What is ROV ?!
 ROV, or Remotely Operated Vehicle, is a tethered underwater robot used for many purposes across many industries that operate underwater. ROVs can perform many specialized tasks in industries such as oil and gas, commercial shipping, salvage, ship husbandry, potable water, ocean engineering, video production, scientific research and others.
